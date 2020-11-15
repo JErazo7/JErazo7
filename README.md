@@ -3,8 +3,9 @@
 </p>
 <p align="center">
   <h3 align="center">Doing magic at StartFit</h3>
-  
-  <a href="https://startfit.tech/"><img align="center" src="https://img.techpowerup.org/201115/unnamed.png" width="12%"></img></a>
+  <p align="center">
+    <a href="https://www.startfit.tech/"><img align="center" src="https://img.techpowerup.org/201115/unnamed.png" width="12%"></img></a>
+  </p>
 </p>
 <br>
 <p align="center">
