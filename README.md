@@ -1,6 +1,12 @@
 <p align="center">
-<img src="https://img.techpowerup.org/201115/josue-erazo.png">
+<img src="https://img.techpowerup.org/201115/banner.png">
 </p>
+<p align="center">
+  <h3 align="center">Doing magic at StartFit</h3>
+  
+  <a href="https://startfit.tech/"><img align="center" src="https://img.techpowerup.org/201115/unnamed.png" width="12%"></img></a>
+</p>
+<br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JErazo7&count_private=true&theme=default&show_icons=true" alt="Pramod's Github Stats">
 </p>
