@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/0MTyNn7/Josue-Erazo.png">
+<img src="https://img.techpowerup.org/201115/josue-erazo.png">
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JErazo7&count_private=true&theme=default&show_icons=true" alt="Pramod's Github Stats">
