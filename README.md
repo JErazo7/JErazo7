@@ -2,9 +2,9 @@
 <img src="https://img.techpowerup.org/201115/banner.png">
 </p>
 <p align="center">
-  <h3 align="center">Doing magic at StartFit</h3>
+  <h3 align="center">Doing magic at Belo</h3>
   <p align="center">
-    <a href="https://www.startfit.tech/"><img align="center" src="https://img.techpowerup.org/201115/unnamed.png" width="12%"></img></a>
+    <a href="https://belo.app/"><img align="center" src="https://pbs.twimg.com/profile_banners/1263942652397051904/1621188438/1500x500" width="12%"></img></a>
   </p>
 </p>
 <br>
