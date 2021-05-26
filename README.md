@@ -4,7 +4,7 @@
 <p align="center">
   <h3 align="center">Doing magic at Belo</h3>
   <p align="center">
-    <a href="https://belo.app/"><img align="center" src="https://pbs.twimg.com/profile_banners/1263942652397051904/1621188438/1500x500" width="12%"></img></a>
+    <a href="https://belo.app/"><img align="center" src="https://pbs.twimg.com/profile_banners/1263942652397051904/1621188438/1500x500" width="20%"></img></a>
   </p>
 </p>
 <br>
