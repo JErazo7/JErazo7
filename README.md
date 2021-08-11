@@ -10,7 +10,7 @@
 <p align="center">
   <h3 align="center">Creator of StartFit</h3>
   <p align="center">
-    <a href="https://www.startfit.tech/"><img align="center" src="https://www.startfit.tech/images/logo.svg" width="5%"></img></a>
+    <a href="https://www.startfit.tech/"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGvV99snTIvKg/company-logo_200_200/0/1609517465462?e=1636588800&v=beta&t=azewzPgOj4QWKKAubZ4uuXIYHZ21Vh0rudqIlN7Sj3E" width="5%"></img></a>
   </p>
 </p>
 <br>
