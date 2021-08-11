@@ -7,6 +7,12 @@
     <a href="https://belo.app/"><img align="center" src="https://media-exp1.licdn.com/dms/image/C560BAQE-X3IwEXVkKg/company-logo_200_200/0/1610602193232?e=1636588800&v=beta&t=ttObMEYaT9XJIyHS5MlQoNjn7UHTMRoxZdoCTQuRlV0" width="5%"></img></a>
   </p>
 </p>
+<p align="center">
+  <h3 align="center">Creator of StartFit</h3>
+  <p align="center">
+    <a href="https://www.startfit.tech/"><img align="center" src="https://www.startfit.tech/images/logo.svg" width="5%"></img></a>
+  </p>
+</p>
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JErazo7&count_private=true&theme=default&show_icons=true" alt="Pramod's Github Stats">
