@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.techpowerup.org/201115/banner.png">
+<img src="https://media-exp1.licdn.com/dms/image/C4D16AQGkkqxJoHQqCg/profile-displaybackgroundimage-shrink_350_1400/0/1605732799166?e=1636588800&v=beta&t=4b8nVNV32Kj4DTBpGVPQAP6qUt8nXrYbieF4kPpTdH0">
 </p>
 <p align="center">
   <h3 align="center">Doing magic at Belo</h3>
