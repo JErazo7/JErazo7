@@ -1,12 +1,12 @@
 <h2>About</h2>
 <p> 
-Expert in multi-platform application development with Flutter. I have experience and the skills required to develop ideas, scale them and turn them into successful products or services.
+Expert in planning and development of innovative and scalable mobile applications using the Flutter framework, focused on transforming ideas into successful products or services.
 
-I have collaborated with multi-million dollar companies with thousands of active users per day such as MGM Resorts and Team INC, playing a key role in making decisions about the implementation and architectural improvements based on the scalability of mobile applications developed with Flutter.
+I led the mobile development of Belo, an Argentine crypto wallet, which reached 200,000 users and raised $3 million in investments in its first 9 months.
 
-In the startup ecosystem, I have led the development of mobile applications such as Belo, an Argentine Crypto Wallet, which in its first 9 months of operation reached 200,000 users and raised an investment round of 3 million dollars.
+Currently, I am part of the mobile architecture team at MGM Resorts, responsible for continuously optimizing and refining the application architecture to ensure its scalability and performance.
 
-I am also the creator of StartFit, a Fitness App that connects fitness professionals with athletes and currently has 25 thousand users and more than 200 subscriptions sold around the world.
+I am also the creator of StartFit, a fitness app that connects fitness professionals with athletes, boasting 25,000 users and over 200 subscriptions sold worldwide.
 </p>
 <h2>Stats</h2>
 <p align="left">
