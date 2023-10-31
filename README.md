@@ -6,12 +6,6 @@ I led the mobile development of Belo, an Argentine cryptocurrency wallet, reachi
 
 I am also the creator of StartFit, a fitness application that facilitates the connection between sports professionals and athletes, adding more than 25,000 users worldwide.
 
-GitHub: https://github.com/JErazo7
-
 <br>
 <h2>Social Networks</h2>
-<p align="left">
- <a href="https://www.linkedin.com/in/erazo-josue/" target=”_blank”>
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
-</p>
+LinkedIn: https://www.linkedin.com/in/erazo-josue/
