@@ -1,12 +1,12 @@
 <h2>About</h2>
 <p> 
-Expert in planning and development of innovative and scalable mobile applications using the Flutter framework, focused on transforming ideas into successful products or services.
+Expert in the planning, development, and scalability of multi-platform applications with Flutter, and a member of the Flutter organization on Github. Currently, I play a crucial role as Mobile Release Manager at MGM Resorts, being key in achieving a reduction in the update interval from 4 to 2 weeks, which has allowed a faster delivery of valuable features and corrections to more than 2 million users.
 
-I led the mobile development of Belo, an Argentine crypto wallet, which reached 200,000 users and raised $3 million in investments in its first 9 months.
+I led the mobile development of Belo, an Argentine cryptocurrency wallet, reaching 200,000 users and raising 3 million dollars in investments during the first 9 months.
 
-Currently, I am part of the mobile architecture team at MGM Resorts, responsible for continuously optimizing and refining the application architecture to ensure its scalability and performance.
+I am also the creator of StartFit, a fitness application that facilitates the connection between sports professionals and athletes, adding more than 25,000 users worldwide.
 
-I am also the creator of StartFit, a fitness app that connects fitness professionals with athletes, boasting 25,000 users and over 200 subscriptions sold worldwide.
+GitHub: https://github.com/JErazo7
 
 <br>
 <h2>Social Networks</h2>
