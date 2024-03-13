@@ -10,6 +10,3 @@ I founded and developed StartFit, a fitness app that bridges the gap between spo
 
 My focus has always been on leveraging technology to address real challenges, with a constant drive to explore new opportunities and apply disruptive innovations in the mobile app domain. I'm continually seeking projects that not only challenge my technical skills but also offer the chance to make a significant difference in people's lives.
 
-<br>
-<h2>Social Networks</h2>
-LinkedIn: https://www.linkedin.com/in/erazo-josue/
